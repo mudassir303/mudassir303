@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+    <div class="background">
+        <p class="ww">WHATSAPP WEB</p>
+        <img class="img3" src="/img/logo.png" alt="">
+
+        <div class="box">
+            <div class="box2"><img class="img2" src="/img/vid.PNG" alt=""></div>
+            <img class="img" src="/img/Capture.PNG">
+            <div class="h">
+                <p>To use WhatsApp on your computer</p>
+            </div>
+            <p class="p2">1. Open WhatsApp on your phone</p>
+            <p class="p3">2. Tap <span class="sp"> Menu</span> or <span class="sp">Settings</span> and select <span class="sp">Linked Device</span></p>
+            <p class="p3">3. Point your phone to this screen to capture this code</p>
+            <a  href="https://faq.whatsapp.com/web/download-and-installation/how-to-log-in-or-out?lang=en"><p  class="link">Need help to get started?</p></a>
+        </div>
+
+    </div>
+    </div>
+</body>
+
+</html>
